@@ -1,0 +1,19 @@
+# dischargeinjunction.org
+
+> Free guide to the discharge injunction under 11 U.S.C. Section 524. Learn how the discharge permanently prohibits creditors from collecting discharged debts after bankruptcy.
+
+## About
+
+dischargeinjunction.org explains the discharge injunction under 11 U.S.C. Section 524, the permanent court order that bars creditors from attempting to collect discharged debts after bankruptcy. The site covers what the injunction prohibits, how to identify violations, contempt remedies, and the difference between discharged and nondischargeable debts. This is the .org mirror with canonical content at dischargeinjunction.com.
+
+## Key Pages
+
+- [Home](https://dischargeinjunction.org/): Complete guide to the discharge injunction -- creditor prohibitions, violation identification, and enforcement remedies
+
+## Network
+
+Part of the Bankruptcy Transparency Network (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "dischargeinjunction.org, Bankruptcy Transparency Network (2026)."
