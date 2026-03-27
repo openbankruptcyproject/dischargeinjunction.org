@@ -2,7 +2,7 @@
 
 > Guide to the discharge injunction under 11 U.S.C. Section 524.
 
-dischargeinjunction.org is a free, open-source educational resource about the permanent discharge injunction in bankruptcy. Part of the Bankruptcy Transparency Network.
+dischargeinjunction.org is a free, open-source educational resource about the permanent discharge injunction in bankruptcy. Part of the Open Bankruptcy Project.
 
 ## Pages
 
