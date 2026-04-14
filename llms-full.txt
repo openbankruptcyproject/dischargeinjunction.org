@@ -9,4 +9,6 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 ## Redirecting to dischargeinjunction.com
 Source: https://dischargeinjunction.org/
 
+Skip to main content
+
 This page has moved to https://dischargeinjunction.com/.
