@@ -1,5 +1,5 @@
 # Redirecting to dischargeinjunction.com
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Free educational resource at dischargeinjunction.org.
 
@@ -8,6 +8,8 @@ dischargeinjunction.org is part of the Open Bankruptcy Project (openbankruptcypr
 
 ## Key Pages
 - Redirecting to dischargeinjunction.com: https://dischargeinjunction.org/
+- About dischargeinjunction.org: https://dischargeinjunction.org/about.html
+- Privacy Policy: https://dischargeinjunction.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
